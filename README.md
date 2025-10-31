@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mikael-Sousa/Mikael-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou o **Mikael Sousa** - Desenvolvedor Fullstack
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias que utilizo
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+</div>
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikael-Sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikael-Sousa&layout=compact&theme=dracula&langs_count=6" height="150" />
+</div>
+
+---
+
+### 📎 Projetos em destaque
+- 🔗 [suap-refeicoes-api](https://github.com/Mikael-Sousa/suap-refeicoes-api)
+- ✅ [To-Do List Fullstack](https://github.com/Mikael-Sousa/to-do-list-fullstack)
+
+> Sempre em construção 🚧 — novos projetos chegando!
+
+---
+
+### 📫 Contato
+<div align="left">
+
+📩 **Email:** mikael.sr.dev@gmail.com
+
+</div>
