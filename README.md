@@ -32,14 +32,6 @@
 
 ---
 
-### 📎 Projetos em destaque
-- 🔗 [suap-refeicoes-api](https://github.com/Mikael-Sousa/suap-refeicoes-api)
-- ✅ [To-Do List Fullstack](https://github.com/Mikael-Sousa/to-do-list-fullstack)
-
-> Sempre em construção 🚧 — novos projetos chegando!
-
----
-
 ### 📫 Contato
 <div align="left">
 
