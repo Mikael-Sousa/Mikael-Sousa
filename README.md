@@ -29,12 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mikael-Sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikael-Sousa&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
-
----
-
-### 📫 Contato
-<div align="left">
-
-📩 **Email:** mikael.sr.dev@gmail.com
-
-</div>
